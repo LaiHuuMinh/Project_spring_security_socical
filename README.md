@@ -1,7 +1,12 @@
 # Project Socical
 
-
-
+## Technology
+- Spring boot
+- Sping security: authentication, token jwt
+- Redis
+- MongoDB
+- MySQL
+- JDK 11
 
 ## Getting started
 
