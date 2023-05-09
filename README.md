@@ -46,4 +46,4 @@ git clone https://github.com/LaiHuuMinh/Project_spring_security_socical.git
 ## Contributors
 - Lai Huu Minh
 
-Please feel free to contribute to this project by submitting a pull request.
+ 
